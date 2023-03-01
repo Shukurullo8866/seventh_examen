@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483377206148",
+    "project_id": "seventhexamen",
+    "storage_bucket": "seventhexamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483377206148:android:1e3848878437aafbc6c3d1",
+        "android_client_info": {
+          "package_name": "com.example.seventh_examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483377206148-2ms4sahm3rdcfq3md0mjvs1q63f0qviq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_MPjZZLwnq52UAd7Qngrii2HvV4DG7Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483377206148-2ms4sahm3rdcfq3md0mjvs1q63f0qviq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
