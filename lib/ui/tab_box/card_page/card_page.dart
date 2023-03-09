@@ -147,10 +147,7 @@ class CardsPage extends StatelessWidget {
                                         ),
                                         ElevatedButton(
                                             onPressed: () {
-                                              context
-                                                  .read<CardsCubit>()
-                                                  .deleteCard(
-                                                      item[index].cardId);
+                                              context.read<UsersCubit>().deleteUser(userModel.id);
                                               Navigator.pop(context);
                                             },
                                             child: const Text(
